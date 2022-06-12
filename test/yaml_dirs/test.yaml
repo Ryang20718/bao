@@ -2,9 +2,12 @@
 ---
 name: health
 interval: 30 # Seconds of checking
-log_dir: 
+log_dir:
   - /var/log/sys
 alert_threshold: 1 # number of instances
+alert_regex:
+  - ALERT
+  - TESTING
 alert_action:
   - echo 'hello' # Command to run when we hit alert
 help:
@@ -13,9 +16,13 @@ help:
 ---
 name: health2
 interval: 30 # Seconds of checking
-log_dir: 
+log_dir:
   - /var/log/sys
+  - /var/log/sys2
 alert_threshold: 1 # number of instances
+alert_regex:
+  - ALERT
+  - TESTING
 alert_action:
   - echo 'hello' # Command to run when we hit alert
 help:
