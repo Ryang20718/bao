@@ -1,0 +1,14 @@
+Jun 11 15:06:34 rbp com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0300-0000-0000-000000000000[17275]): Service exited due to SIGKILL | sent by mds[112]
+Jun 11 15:07:12 rbp com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0D000000-0400-0000-0000-000000000000[17285]): Service exited due to SIGKILL | sent by mds[112]
+Jun 11 15:08:59 rbp systemstats[97]: assertion failed: 19H15: systemstats + 669448 [7B7F7B73-FFF4-3CB7-9C6F-CBD9A3397587]: 0x5
+Jun 11 15:08:59 rbp syslogd[87]: ASL Sender Statistics
+Jun 11 15:11:19 rbp com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0500-0000-0000-000000000000[17284]): Service exited due to SIGKILL | sent by mds[112]
+Jun 11 15:12:49 rbp com.apple.xpc.launchd[1] (com.apple.mdworker.shared.03000000-0300-0000-0000-000000000000[17286]): Service exited due to SIGKILL | sent by mds[112]
+Jun 11 15:12:49 rbp com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0600-0000-0000-000000000000[17307]): Service exited due to SIGKILL | sent by mds[112]
+Jun 11 15:12:53 rbp com.apple.xpc.launchd[1] (com.apple.mdworker.shared.04000000-0200-0000-0000-000000000000[17309]): Service exited due to SIGKILL | sent by mds[112]
+Jun 11 15:12:54 rbp ALERT!
+Jun 11 15:12:54 rbp ALERT!
+Jun 11 15:12:54 rbp ALERT!
+Jun 11 15:12:54 rbp ALERT!
+Jun 11 15:12:54 rbp ALERT!
+Jun 11 15:12:54 rbp ALERT!
